@@ -8,3 +8,5 @@ and how to process them to ensure there was a high level of accuracy. This was e
 to accurately and efficiently solve the Rubik's cube with no errors.
 
 From this project, I learnt a lot about translating real world data, optimisation and efficiency, time management as well as how to work well in a team environment.
+
+***DISCLAIMER - All names apart from my own were changed for security and data protection reasons***
