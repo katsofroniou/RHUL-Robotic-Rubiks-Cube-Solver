@@ -26,9 +26,9 @@ public class Menu implements Behavior {
 	public void action() {
 		while (runMenu) {
 			LCD.clear();
-			LCD.drawString("Benjamin Shearlock", 0, -50);
-			LCD.drawString("Charlie Kerr", 0, -100);
-			LCD.drawString("Harry O'Keefe", 0, -150);
+			LCD.drawString("-", 0, -50);
+			LCD.drawString("-", 0, -100);
+			LCD.drawString("-", 0, -150);
 			LCD.drawString("Katerina Sofroniou", 0, -150);
 			
 			Delay.msDelay(1000);
